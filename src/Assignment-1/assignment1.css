@@ -5,3 +5,32 @@
 width: 100%;
 height: 100%;
 }
+.q1{
+    height: 500px;
+    width: 50%;
+    background-color: aqua;
+    
+    float: left;
+    
+}
+.q2{
+    height: 500px;
+    width: 50%;
+    
+    float: right;
+}
+.q3{
+    height: 400px;
+    width:50%;
+    
+    float: left;
+}
+.q4{
+    height: 400px;
+    width:50% ;
+    background-color: aqua;
+    
+    float: right;
+    text-align: center;
+    
+}
