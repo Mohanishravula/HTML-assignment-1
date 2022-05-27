@@ -4,4 +4,83 @@
 .container, .content {
 width: 100%;
 height: 100%;
+margin: 3px solid black;
 }
+.head{
+    height: 300px;
+    background-color: aquamarine;
+}
+.logo{
+    float: left;
+}
+.searchi{
+    float:right;
+    display: block;
+    margin: 100px;; ;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 60px;
+}
+.navi{
+    height: 100px;
+    width: 100%;
+    background-color:rgb(165, 238, 20) ;
+    align-self: center;
+}
+.middle-cotent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+/* .leftside{
+    width:15% ;
+    height: auto;
+    background-color: rgb(224, 224, 111);
+}
+.sideleft{
+    display: flex;
+    flex-direction: column;
+    align-content: left;
+    vertical-align: top;
+}
+.post-img{
+    -ms-flex-align: center;
+    padding-left: 10%;
+    display:inline-block;
+
+    align-items: center;
+    
+}
+.main-content-section{
+    vertical-align: middle;
+    width: 400px;
+    display: inline-flex;
+    flex-direction: row;
+    
+    vertical-align: middle;
+}
+.rightside{
+    width:15% ;
+    height: auto;
+    text-align: right; 
+    background-color: rgb(177, 107, 37);
+}
+.right-side-menu{
+    display: flex;
+    flex-direction: column;
+    align-content: right; 
+    vertical-align: top;
+}
+.middle{
+    
+    display:inline-block ;
+}  */
+
+
